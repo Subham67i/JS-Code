@@ -1,0 +1,21 @@
+body{
+    background-color: papayawhip;
+}
+h1{
+    color: rgb(23, 20, 214);
+    background-color: yellow;
+}
+button{
+    background-color: blue;
+    color: white;
+}
+.box{
+    width: 20%;
+    height: 25%;
+    border: 2px solid black;
+    margin: 5px;
+    text-align: center;
+    background-color: aqua;
+  
+
+}
