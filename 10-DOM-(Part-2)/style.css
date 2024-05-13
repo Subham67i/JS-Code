@@ -1,0 +1,14 @@
+/* #box{
+    height: 250px;
+    width: 200px;
+    background-color: blueviolet;
+    border: 2px solid black;
+    color: white;
+    text-align: center;
+} */
+.content{
+    color: red;
+}
+.newContent{
+    background-color: green;
+}
